@@ -5,6 +5,7 @@ import CategoryShowcase from "./CategoryShowcase";
 import Register from "./Register";
 import LocationSpread from "./LocationSpread";
 import AboutUs from "./AboutUs";
+import PromoteApp from "./PromoteApp";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Register />
       <LocationSpread />
       <AboutUs />
+      <PromoteApp />
     </div>
   );
 };
