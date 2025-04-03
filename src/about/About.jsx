@@ -1,12 +1,12 @@
 import React from "react";
 import PageBanner from "../components/PageBanner";
 
-const Blog = () => {
+const About = () => {
   return (
     <div>
-      <PageBanner title="Blog Page" currentPage="Blog" />
+      <PageBanner title="About Us Page" currentPage="About" />
     </div>
   );
 };
 
-export default Blog;
+export default About;
